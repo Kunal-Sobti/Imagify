@@ -8,3 +8,6 @@ For the image segmentation task, we will use "The Oxford-IIIT Pet Dataset" which
 2.Pixel bordering the pet
 
 3.Pixel belongs neither in class 1 nor in class 2
+
+Example:
+![image](https://github.com/user-attachments/assets/d9911974-3df2-4b37-85e3-c6a86769fdb8)
