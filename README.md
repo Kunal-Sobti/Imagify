@@ -3,5 +3,7 @@ Image segmentation refers to the task of annotating a single class to different 
 
 For the image segmentation task, we will use "The Oxford-IIIT Pet Dataset" which is free to use dataset. They have 37 category pet dataset with roughly 200 images for each class. The images have large variations in scale, pose and lighting. All images have an associated ground truth annotation of breed, head ROI, and pixel-level trimap segmentation. Each pixel is classified into one of the three categories:
 1.Pixel belonging to the pet
+
 2.Pixel bordering the pet
+
 3.Pixel belongs neither in class 1 nor in class 2
